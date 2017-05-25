@@ -1,0 +1,14 @@
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\PokemonTest.deps.json
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\PokemonTest.runtimeconfig.json
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\PokemonTest.runtimeconfig.dev.json
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\obj\Debug\netcoreapp1.1\PokemonTest.csprojResolveAssemblyReference.cache
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\obj\Debug\netcoreapp1.1\PokemonTest.AssemblyInfo.cs
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\PokemonTest.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\PokemonTest.pdb
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\PokemonApp.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\bin\Debug\netcoreapp1.1\PokemonApp.pdb
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\obj\Debug\netcoreapp1.1\PokemonTest.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonTest\obj\Debug\netcoreapp1.1\PokemonTest.pdb

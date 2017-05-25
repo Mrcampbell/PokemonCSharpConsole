@@ -1,0 +1,9 @@
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\bin\Debug\netcoreapp1.1\PokemonApp.deps.json
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\bin\Debug\netcoreapp1.1\PokemonApp.runtimeconfig.json
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\bin\Debug\netcoreapp1.1\PokemonApp.runtimeconfig.dev.json
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\obj\Debug\netcoreapp1.1\PokemonApp.csprojResolveAssemblyReference.cache
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\obj\Debug\netcoreapp1.1\PokemonApp.AssemblyInfo.cs
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\bin\Debug\netcoreapp1.1\PokemonApp.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\bin\Debug\netcoreapp1.1\PokemonApp.pdb
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\obj\Debug\netcoreapp1.1\PokemonApp.dll
+c:\users\mikercampbell\documents\visual studio 2017\Projects\PokemonGame\PokemonApp\obj\Debug\netcoreapp1.1\PokemonApp.pdb
